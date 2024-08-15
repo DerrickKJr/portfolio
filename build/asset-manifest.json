@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.db0fcaf7.css",
+    "main.js": "/portfolio/static/js/main.a195fb8a.js",
+    "static/js/453.419a5d54.chunk.js": "/portfolio/static/js/453.419a5d54.chunk.js",
+    "static/media/macWallpaper.jpg": "/portfolio/static/media/macWallpaper.5e8f438debef9a25d685.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.db0fcaf7.css.map": "/portfolio/static/css/main.db0fcaf7.css.map",
+    "main.a195fb8a.js.map": "/portfolio/static/js/main.a195fb8a.js.map",
+    "453.419a5d54.chunk.js.map": "/portfolio/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0fcaf7.css",
+    "static/js/main.a195fb8a.js"
+  ]
+}
